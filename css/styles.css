@@ -13,7 +13,7 @@
     position:relative;
 }
 .hdr {
-    background-image: url('Asset 2.svg');
+    background-image: url('../assets/Asset-2.svg');
     background-repeat:no-repeat;
     position:absolute;
     bottom:40px;
